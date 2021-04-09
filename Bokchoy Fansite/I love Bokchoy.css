@@ -1,0 +1,62 @@
+/***************************Tag Selectors********************************/
+
+body {
+  background-color: Lime;
+}
+
+
+h1 {
+    font-size: 200px;
+    color: 	#8B0000;
+ }
+
+/*paragraph color*/
+
+ p {
+ color: gray;
+}
+
+/***************************Class Selectors********************************/
+img:hover {
+
+  background-color: gold;
+  
+
+}
+
+.bokchoy {
+  background-color: yellow;
+}
+
+.hotdog {
+  background-color: Orange;
+
+}
+
+.bokchoy1 {
+
+  color: #b67162;
+}
+
+.bokchoy2 {
+
+  color: #903749;
+}
+
+.bokchoy3 {
+
+  color: #f58634;
+}
+
+.circular {
+
+border-radius: 100%;
+
+}
+
+
+/***************************Id Selectors********************************/
+#heading {
+
+  color: blue;
+}

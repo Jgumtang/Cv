@@ -1,0 +1,39 @@
+body {
+  background-color: #E3CD81FF;
+}
+
+h1 {
+color: #101820FF;
+
+}
+
+h3 {
+
+  color: #101820FF;
+
+}
+
+
+/* color: lime punch: #D6ED17FF
+color combinations:
+-Royal blue (#00539CFF) and Peach (#EEA47FFF)
+-Black (#101820FF) and  Blazing yellow (#FEE715FF)
+-Copper coin (#B1624EFF) and Aged copper (#5CC8D7FF)
+-Dusty Citron (#E3CD81FF) and Cool Gray  (#B1B3B3FF)
+-Brown Sugar  (#A07855FF) and Beige (#D4B996FF)
+-Turkish Sea  (#195190FF) and Silver (#A2A2A1FF)
+-Island Green (#2BAE66FF) and White (#FCF6F5FF)
+ */
+
+hr {
+  border-color: grey;
+  border-width: 5px;
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%
+}
+
+img {
+  height: 200px;
+  width: 190px;
+}
