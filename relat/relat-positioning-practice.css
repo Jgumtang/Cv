@@ -1,0 +1,39 @@
+body {
+  background-color: #d5ecc2
+}
+
+.red {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+}
+
+.blue {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+}
+
+.green {
+  height: 100px;
+  width: 100px;
+  background-color: green;
+}
+
+.yellow {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+}
+
+.orange {
+  height: 100px;
+  width: 100px;
+  background-color: orange;
+}
+
+.black {
+  height: 100px;
+  width: 100px;
+  background-color: black;
+}
