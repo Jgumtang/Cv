@@ -6,34 +6,25 @@ body {
   height: 100px;
   width: 100px;
   background-color: red;
+  position: relative;
+  display: inline-block;
+  left: 200px;
 }
 
 .blue {
   height: 100px;
   width: 100px;
   background-color: blue;
-}
-
-.green {
-  height: 100px;
-  width: 100px;
-  background-color: green;
+  position: relative;
+  display: inline-block;
+  right: 100px
 }
 
 .yellow {
   height: 100px;
   width: 100px;
   background-color: yellow;
-}
-
-.orange {
-  height: 100px;
-  width: 100px;
-  background-color: orange;
-}
-
-.black {
-  height: 100px;
-  width: 100px;
-  background-color: black;
+  position: relative;
+  display: inline-block;
+  right: 100px
 }
