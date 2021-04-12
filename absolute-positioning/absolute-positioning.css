@@ -1,3 +1,31 @@
 body {
-  background-color: orange;
+  background-color: #bdc7c9;
+  margin: 0;
+}
+
+.red {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  right: 20px;
+  position: absolute;
+  top: 290px;
+  left: 200px;
+}
+
+.blue {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  position: absolute;
+  left: 100px;
+  top: 190px;
+
+}
+
+.yellow {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  position: absolute;
 }
