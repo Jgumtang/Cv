@@ -1,3 +1,9 @@
 body {
   background-color: #5cb85c;
 }
+
+
+img {
+  height: 250px;
+  width: 400px;
+}
