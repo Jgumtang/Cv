@@ -3,5 +3,36 @@ body {
   color: #6c8ead;
   background-color: #fff275;
   font-family: courier;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
+}
+
+.one {
+  color: #fc766aff
+}
+
+.two {
+  color: #fc766aff
+}
+
+.three {
+  color: #fc766aff
+}
+
+.four {
+  color: #fc766aff
+}
+
+.five {
+    color: #fc766aff
+}
+
+hr {
+  border-color: #5b84b1ff;
+  border-width: 3px;
+  border-style: none;
+  border-top-style: dashed;
+  width: 55%
+}
+.qq {
+  color: #ea738dff;
 }
